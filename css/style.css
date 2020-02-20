@@ -24,5 +24,14 @@
 }
 .intro{
     background-image: url(/assets/backgrounds/h_img.jpg);
-    background-repeat: no-repeat;
+}
+#inquire{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.space{
+    text-align: center;
+    line-height: 35px;
 }
