@@ -35,3 +35,22 @@ h1{
     text-align: center;
     line-height: 35px;
 }
+.about{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+#provision{
+    text-align: center;
+    color: cornsilk;
+    padding-bottom: 160px;
+    margin-top: -27px;
+}
+h2{
+    text-align: center;
+    padding-top: 150px;
+    color: cornsilk;
+    font-size: 29px;
+}
+.service{
+    background-image: url(/assets/backgrounds/s_image.jpg);
+}
