@@ -11,4 +11,7 @@ $(document).ready(function() {
         $("#id6").toggle()
         $("#id5").toggle()
     })
+    $("#prj1").hover(function(){
+        $("prj1").toggle();
+    })
 })
