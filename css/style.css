@@ -64,3 +64,12 @@ h3{
 #id2 {
     display: none;
 }
+#id4{
+    display: none;
+}
+#id6{
+    display: none;
+}
+body{
+    overflow-x: hidden;
+}
