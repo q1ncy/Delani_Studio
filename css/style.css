@@ -75,17 +75,22 @@ body{
 }
 h6{
     text-align: center;
+    color: whitesmoke;
+    font-size: 20pt;
 }
 .contact{
     padding-bottom: 100px;
     background-image: url(/assets/backgrounds/c_image.jpg);
 }
+form{
+    padding:20px;
+}
 input{
     margin-bottom: 10px;
 }
 input[type=text]{
-    width: 25%;
-    margin-right: 100px;
+    width: 30%;
+    margin-right: 55px;
     background-color: transparent;
 }
 input[type=email]{
@@ -95,4 +100,8 @@ input[type=email]{
 textarea{
     width: 70%;
     background-color: transparent;
+}
+.reachus img{
+    padding: 10px;
+    padding-top: 30px;
 }
