@@ -11,7 +11,15 @@ $(document).ready(function() {
         $("#id6").toggle()
         $("#id5").toggle()
     })
-    $("#prj1").hover(function(){
-        $("prj1").toggle();
+    $("button").click(function(){
+        var Name=document.getElementById("name").value
+        var Email=document.getElementById("email").value
+       
+        if (Name=="" || Email==""){
+            alert("please fill in form correctly")
+        }else{
+        alert("we have received your email "+Name +" Thank you for contacting us");
+        }
     })
+    
 })
